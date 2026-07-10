@@ -372,7 +372,7 @@ npm run dev
 
 # 👨‍💻 Author
 
-## Srinu
+## Raktim Bhattacharya
 
 Backend Developer
 
